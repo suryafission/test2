@@ -1,0 +1,315 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2D05804F1710122800E58278 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D05804E1710122800E58278 /* UIKit.framework */; };
+		2D0580511710122800E58278 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D0580501710122800E58278 /* Foundation.framework */; };
+		2D0580531710122800E58278 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D0580521710122800E58278 /* CoreGraphics.framework */; };
+		2D0580591710122800E58278 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2D0580571710122800E58278 /* InfoPlist.strings */; };
+		2D05805B1710122800E58278 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D05805A1710122800E58278 /* main.m */; };
+		2D05805F1710122800E58278 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D05805E1710122800E58278 /* AppDelegate.m */; };
+		2D0580611710122800E58278 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D0580601710122800E58278 /* Default.png */; };
+		2D0580631710122800E58278 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D0580621710122800E58278 /* Default@2x.png */; };
+		2D0580651710122800E58278 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D0580641710122800E58278 /* Default-568h@2x.png */; };
+		2D0580681710122800E58278 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0580671710122800E58278 /* ViewController.m */; };
+		2D05806B1710122800E58278 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0580691710122800E58278 /* ViewController.xib */; };
+		2D0580741710124B00E58278 /* Switchy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0580731710124B00E58278 /* Switchy.m */; };
+		2D058076171012C600E58278 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D058075171012C600E58278 /* QuartzCore.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2D05804A1710122800E58278 /* Switchy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Switchy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D05804E1710122800E58278 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2D0580501710122800E58278 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2D0580521710122800E58278 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2D0580561710122800E58278 /* Switchy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Switchy-Info.plist"; sourceTree = "<group>"; };
+		2D0580581710122800E58278 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2D05805A1710122800E58278 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2D05805C1710122800E58278 /* Switchy-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Switchy-Prefix.pch"; sourceTree = "<group>"; };
+		2D05805D1710122800E58278 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		2D05805E1710122800E58278 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2D0580601710122800E58278 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		2D0580621710122800E58278 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		2D0580641710122800E58278 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		2D0580661710122800E58278 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		2D0580671710122800E58278 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2D05806A1710122800E58278 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		2D0580721710124B00E58278 /* Switchy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Switchy.h; sourceTree = "<group>"; };
+		2D0580731710124B00E58278 /* Switchy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Switchy.m; sourceTree = "<group>"; };
+		2D058075171012C600E58278 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2D0580471710122800E58278 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2D058076171012C600E58278 /* QuartzCore.framework in Frameworks */,
+				2D05804F1710122800E58278 /* UIKit.framework in Frameworks */,
+				2D0580511710122800E58278 /* Foundation.framework in Frameworks */,
+				2D0580531710122800E58278 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2D05803F1710122800E58278 = {
+			isa = PBXGroup;
+			children = (
+				2D058075171012C600E58278 /* QuartzCore.framework */,
+				2D0580711710124B00E58278 /* UISwitchy */,
+				2D0580541710122800E58278 /* Switchy */,
+				2D05804D1710122800E58278 /* Frameworks */,
+				2D05804B1710122800E58278 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2D05804B1710122800E58278 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2D05804A1710122800E58278 /* Switchy.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2D05804D1710122800E58278 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2D05804E1710122800E58278 /* UIKit.framework */,
+				2D0580501710122800E58278 /* Foundation.framework */,
+				2D0580521710122800E58278 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2D0580541710122800E58278 /* Switchy */ = {
+			isa = PBXGroup;
+			children = (
+				2D05805D1710122800E58278 /* AppDelegate.h */,
+				2D05805E1710122800E58278 /* AppDelegate.m */,
+				2D0580661710122800E58278 /* ViewController.h */,
+				2D0580671710122800E58278 /* ViewController.m */,
+				2D0580691710122800E58278 /* ViewController.xib */,
+				2D0580551710122800E58278 /* Supporting Files */,
+			);
+			path = Switchy;
+			sourceTree = "<group>";
+		};
+		2D0580551710122800E58278 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2D0580561710122800E58278 /* Switchy-Info.plist */,
+				2D0580571710122800E58278 /* InfoPlist.strings */,
+				2D05805A1710122800E58278 /* main.m */,
+				2D05805C1710122800E58278 /* Switchy-Prefix.pch */,
+				2D0580601710122800E58278 /* Default.png */,
+				2D0580621710122800E58278 /* Default@2x.png */,
+				2D0580641710122800E58278 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2D0580711710124B00E58278 /* UISwitchy */ = {
+			isa = PBXGroup;
+			children = (
+				2D0580721710124B00E58278 /* Switchy.h */,
+				2D0580731710124B00E58278 /* Switchy.m */,
+			);
+			name = UISwitchy;
+			path = Switchy/Switchy;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2D0580491710122800E58278 /* Switchy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2D05806E1710122800E58278 /* Build configuration list for PBXNativeTarget "Switchy" */;
+			buildPhases = (
+				2D0580461710122800E58278 /* Sources */,
+				2D0580471710122800E58278 /* Frameworks */,
+				2D0580481710122800E58278 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Switchy;
+			productName = Switchy;
+			productReference = 2D05804A1710122800E58278 /* Switchy.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2D0580411710122800E58278 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Emir Fithri Samsuddin";
+			};
+			buildConfigurationList = 2D0580441710122800E58278 /* Build configuration list for PBXProject "Switchy" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2D05803F1710122800E58278;
+			productRefGroup = 2D05804B1710122800E58278 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2D0580491710122800E58278 /* Switchy */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2D0580481710122800E58278 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2D0580591710122800E58278 /* InfoPlist.strings in Resources */,
+				2D0580611710122800E58278 /* Default.png in Resources */,
+				2D0580631710122800E58278 /* Default@2x.png in Resources */,
+				2D0580651710122800E58278 /* Default-568h@2x.png in Resources */,
+				2D05806B1710122800E58278 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2D0580461710122800E58278 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2D05805B1710122800E58278 /* main.m in Sources */,
+				2D05805F1710122800E58278 /* AppDelegate.m in Sources */,
+				2D0580681710122800E58278 /* ViewController.m in Sources */,
+				2D0580741710124B00E58278 /* Switchy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2D0580571710122800E58278 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2D0580581710122800E58278 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2D0580691710122800E58278 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2D05806A1710122800E58278 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2D05806C1710122800E58278 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		2D05806D1710122800E58278 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2D05806F1710122800E58278 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Switchy/Switchy-Prefix.pch";
+				INFOPLIST_FILE = "Switchy/Switchy-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2D0580701710122800E58278 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Switchy/Switchy-Prefix.pch";
+				INFOPLIST_FILE = "Switchy/Switchy-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D0580441710122800E58278 /* Build configuration list for PBXProject "Switchy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2D05806C1710122800E58278 /* Debug */,
+				2D05806D1710122800E58278 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D05806E1710122800E58278 /* Build configuration list for PBXNativeTarget "Switchy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2D05806F1710122800E58278 /* Debug */,
+				2D0580701710122800E58278 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2D0580411710122800E58278 /* Project object */;
+}
