@@ -1,9 +1,0 @@
-[DeleteFiles]
-FDEL=../USB Display.app
-FDEL=./USB Display UnInstaller.app
-SDEL=../Tool
-SDEL=../../USB Display
-EDEL=/System/Library/Extensions/EMP_UDAU.kext
-[AppInfo]
-QUIT=../USB Display.app/Contents/Resources/USB Display Agent.app
-GLOG=../USB Display.app/Contents/Resources/USB Display Agent.app
