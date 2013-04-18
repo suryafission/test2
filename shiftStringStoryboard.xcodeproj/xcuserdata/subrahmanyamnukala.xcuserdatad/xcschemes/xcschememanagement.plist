@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>testCallout.xcscheme</key>
+		<key>shiftStringStoryboard.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>68D0555E170D978A00BBFADE</key>
+		<key>689E5160170072B000527B60</key>
 		<dict>
 			<key>primary</key>
 			<true/>

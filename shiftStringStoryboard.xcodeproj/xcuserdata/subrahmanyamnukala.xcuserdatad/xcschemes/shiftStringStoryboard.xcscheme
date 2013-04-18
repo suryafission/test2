@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "68D0555E170D978A00BBFADE"
-               BuildableName = "testCallout.app"
-               BlueprintName = "testCallout"
-               ReferencedContainer = "container:testCallout.xcodeproj">
+               BlueprintIdentifier = "689E5160170072B000527B60"
+               BuildableName = "shiftStringStoryboard.app"
+               BlueprintName = "shiftStringStoryboard"
+               ReferencedContainer = "container:shiftStringStoryboard.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "68D0555E170D978A00BBFADE"
-            BuildableName = "testCallout.app"
-            BlueprintName = "testCallout"
-            ReferencedContainer = "container:testCallout.xcodeproj">
+            BlueprintIdentifier = "689E5160170072B000527B60"
+            BuildableName = "shiftStringStoryboard.app"
+            BlueprintName = "shiftStringStoryboard"
+            ReferencedContainer = "container:shiftStringStoryboard.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "68D0555E170D978A00BBFADE"
-            BuildableName = "testCallout.app"
-            BlueprintName = "testCallout"
-            ReferencedContainer = "container:testCallout.xcodeproj">
+            BlueprintIdentifier = "689E5160170072B000527B60"
+            BuildableName = "shiftStringStoryboard.app"
+            BlueprintName = "shiftStringStoryboard"
+            ReferencedContainer = "container:shiftStringStoryboard.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "68D0555E170D978A00BBFADE"
-            BuildableName = "testCallout.app"
-            BlueprintName = "testCallout"
-            ReferencedContainer = "container:testCallout.xcodeproj">
+            BlueprintIdentifier = "689E5160170072B000527B60"
+            BuildableName = "shiftStringStoryboard.app"
+            BlueprintName = "shiftStringStoryboard"
+            ReferencedContainer = "container:shiftStringStoryboard.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
