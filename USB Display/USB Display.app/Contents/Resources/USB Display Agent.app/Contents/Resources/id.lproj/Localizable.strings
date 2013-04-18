@@ -1,0 +1,26 @@
+// Indonesia / インドネシア / id / Bahasa Indonesia
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "Mengenai USB Display";
+LZD_MENUITEM_APP_PREFERENCE = "Preferensi";
+LZD_MENUITEM_APP_SERVICE = "Layanan";
+LZD_MENUITEM_APP_HIDE_UD = "Sembunyikan USB Display";
+LZD_MENUITEM_APP_HIDEOTHERS = "Sembunyikan yang lain";
+LZD_MENUITEM_APP_SHOWALL = "Tunjukkan semua";
+LZD_MENUITEM_APP_QUIT_UD = "Keluar dari USB Display";
+LZD_DOCKMENUITEM_DISCONNECT = "Putuskan";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Aplikasi ini sudah berjalan";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display tidak mendukung resolusi layar yang melebihi 1680 x 1200 piksel.\nTurunkan resolusi layar dan coba kembali.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Aplikasi ini tidak dapat dijalankan karena perangkat lunak EPSON Projector lainnya (EasyMP Network Projection) sedang berjalan.";
+LZD_ERR_STR_DISCONNECT_CABLE = "Saat memutuskan kabel USB untuk USB Display, pilih menu Putuskan dari Dok atau ikon USB Display pada pilihan Menu, lalu putuskan.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "Batal";
+LZD_BTN_YES = "Ya";
+LZD_BTN_NO = "Tidak";
+LZD_CONNECT_REBOOT_INFO = "Anda harus memulai kembali komputer Anda untuk mengaktifkan Output Audio.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Keluarkan audio dari proyektor.";
+LZD_AUDIO_ERROR_MSG = "Tidak dapat mengeluarkan audio ke proyektor.";
+LZD_REBOOT = "Restart";
+LZD_TITLE_APP_PREFERENCE = "Preferensi";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Berkas hilang atau tidak valid. Gagal memulai aplikasi. Instal ulang/hapus aplikasi.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Aplikasi ini tidak dapat dijalankan karena perangkat lunak EPSON Projector lainnya (EasyMP Multi PC Projection) sedang berjalan.";

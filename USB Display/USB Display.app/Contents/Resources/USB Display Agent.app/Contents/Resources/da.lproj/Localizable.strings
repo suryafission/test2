@@ -1,0 +1,26 @@
+// Danish / デンマーク語 / da / Dansk
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "Om USB Display.";
+LZD_MENUITEM_APP_PREFERENCE = "Indstillinger...";
+LZD_MENUITEM_APP_SERVICE = "Services";
+LZD_MENUITEM_APP_HIDE_UD = "Skjul USB Display.";
+LZD_MENUITEM_APP_HIDEOTHERS = "Skjul andre";
+LZD_MENUITEM_APP_SHOWALL = "Vis alle";
+LZD_MENUITEM_APP_QUIT_UD = "Afslut USB Display.";
+LZD_DOCKMENUITEM_DISCONNECT = "Afbryd";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Dette program kører allerede.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display understøtter ikke displayopløsninger højere end 1680 x 1200 pixel.\nReducer skærmopløsningen og prøv igen.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Kan ikke starte dette program, fordi anden Epson Projektor-software (EasyMP Network Projection) allerede kører.";
+LZD_ERR_STR_DISCONNECT_CABLE = "Ved afbrydelse af USB-kablet til USB Display skal du vælge menuen Afbryd i Dock eller ikonet USB Display i menulinjen og derefter afbryde.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "Annuller";
+LZD_BTN_YES = "Ja";
+LZD_BTN_NO = "Nej";
+LZD_CONNECT_REBOOT_INFO = "Du skal genstarte computeren for at aktivere lydafspilningen.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Send lyd fra projektoren";
+LZD_AUDIO_ERROR_MSG = "Kan ikke sende lyd til projektoren.";
+LZD_REBOOT = "Genstart";
+LZD_TITLE_APP_PREFERENCE = "Indstillinger";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Manglende eller ugyldige filer. Kunne ikke starte programmet. Geninstaller/fjern programmet.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Kan ikke starte dette program, fordi anden EPSON Projector-software (EasyMP Multi PC Projection) allerede kører.";

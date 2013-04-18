@@ -1,0 +1,26 @@
+// Vietnam / ベトナム / vi / Việt
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "Thông tin về USB Display";
+LZD_MENUITEM_APP_PREFERENCE = "Lựa chọn ưu tiên...";
+LZD_MENUITEM_APP_SERVICE = "Dịch vụ";
+LZD_MENUITEM_APP_HIDE_UD = "Ẩn USB Display";
+LZD_MENUITEM_APP_HIDEOTHERS = "Ẩn Mục Khác";
+LZD_MENUITEM_APP_SHOWALL = "Hiển thị Tất Cả";
+LZD_MENUITEM_APP_QUIT_UD = "Thoát USB Display";
+LZD_DOCKMENUITEM_DISCONNECT = "Ngắt kết nối";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Ứng dụng này đang chạy.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display không hỗ trợ cho các độ phân giải màn hình vượt quá 1680 x 1200 pixel.\nGiảm độ phân giải màn hình và thử lại.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Không thể khởi động ứng dụng này vì phần mềm EPSON Projector khác (EasyMP Network Projection) đang chạy.";
+LZD_ERR_STR_DISCONNECT_CABLE = "Khi ngắt kết nối cáp USB cho USB Display, chọn menu Ngắt kết nối từ Dock hoặc biểu tượng USB Display trên Thanh Menu và sau đó ngắt kết nối.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "Hủy bỏ";
+LZD_BTN_YES = "Có";
+LZD_BTN_NO = "Không";
+LZD_CONNECT_REBOOT_INFO = "Bạn cần khởi động lại máy tính để bật Ngõ Ra Âm Thanh.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Xuất âm thanh ra máy chiếu";
+LZD_AUDIO_ERROR_MSG = "Không thể xuất âm thanh ra máy chiếu.";
+LZD_REBOOT = "Restart";
+LZD_TITLE_APP_PREFERENCE = "Lựa chọn ưu tiên";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Các tập tin thiếu hoặc không đúng. Không thể khởi động ứng dụng này. Cài đặt lại/tháo bỏ cài đặt ứng dụng này.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Không thể khởi động ứng dụng này vì phần mềm EPSON Projector khác (EasyMP Multi PC Projection) đang chạy.";

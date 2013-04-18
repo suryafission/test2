@@ -1,0 +1,26 @@
+// Japanese / 日本 / ja / 日本語
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "USB Display について";
+LZD_MENUITEM_APP_PREFERENCE = "環境設定...";
+LZD_MENUITEM_APP_SERVICE = "サービス";
+LZD_MENUITEM_APP_HIDE_UD = "USB Display を隠す";
+LZD_MENUITEM_APP_HIDEOTHERS = "ほかを隠す";
+LZD_MENUITEM_APP_SHOWALL = "すべてを表示";
+LZD_MENUITEM_APP_QUIT_UD = "USB Display を終了";
+LZD_DOCKMENUITEM_DISCONNECT = "切断";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "このアプリケーションはすでに起動しています。";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "画面の解像度が1680x1200pixelを超える場合はUSB Displayを利用できません。\n画面の解像度を下げて､再度操作してください。";
+LZD_ERR_STR_EXCLUSIVE_NSC = "他のEPSON Projectorソフトウェア(EasyMP Network Projection)が起動しているため、本アプリケーションは起動できません。";
+LZD_ERR_STR_DISCONNECT_CABLE = "USB Display用USBケーブルを取り外す際は、Dock、またはメニューバーのUSB Displayアイコンから切断メニューを選択して取り外してください。";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "キャンセル";
+LZD_BTN_YES = "はい";
+LZD_BTN_NO = "いいえ";
+LZD_CONNECT_REBOOT_INFO = "音声出力を有効にするためには、再起動する必要があります。";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "音声をプロジェクターで出力する";
+LZD_AUDIO_ERROR_MSG = "音声をプロジェクターに出力できませんでした。";
+LZD_REBOOT = "再起動";
+LZD_TITLE_APP_PREFERENCE = "環境設定";
+LZD_INSTALLER_BAD_FILES_EXISTS = "必要なファイルがないか不正があるためアプリケーションを起動できません。再度インストールしてください。";
+LZD_ERR_STR_EXCLUSIVE_MPP = "他のEPSON Projectorソフトウェア(EasyMP Multi PC Projection)が起動しているため、本アプリケーションは起動できません。";

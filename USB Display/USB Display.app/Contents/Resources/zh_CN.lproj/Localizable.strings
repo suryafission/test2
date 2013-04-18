@@ -1,0 +1,26 @@
+// Simplified Chinese / 中国語（簡体字） / zh_CN / 简体中文
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "关于 USB Display";
+LZD_MENUITEM_APP_PREFERENCE = "偏好设置...";
+LZD_MENUITEM_APP_SERVICE = "服务";
+LZD_MENUITEM_APP_HIDE_UD = "隐藏 USB Display";
+LZD_MENUITEM_APP_HIDEOTHERS = "隐藏其它";
+LZD_MENUITEM_APP_SHOWALL = "显示全部";
+LZD_MENUITEM_APP_QUIT_UD = "退出 USB Display";
+LZD_DOCKMENUITEM_DISCONNECT = "切断";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "此程序已处于运行状态。";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display不支持超过1680 x 1200像素的屏幕分辨率。\n请降低屏幕分辨率后，重试一次。";
+LZD_ERR_STR_EXCLUSIVE_NSC = "无法启动此程序，因为其他的 EPSON Projector软件（EasyMP Network Projection）已处于运行状态。";
+LZD_ERR_STR_DISCONNECT_CABLE = "在切断USB Display的USB线时，请从Dock选择“切断”菜单，或选择菜单栏上的USB Display图标，然后再切断。";
+LZD_BTN_OK = "确定";
+LZD_BTN_CANCEL = "取消";
+LZD_BTN_YES = "是";
+LZD_BTN_NO = "否";
+LZD_CONNECT_REBOOT_INFO = "需要重新启动计算机以启用音频输出。";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "从投影机输出音频";
+LZD_AUDIO_ERROR_MSG = "无法将音频输出到投影机。";
+LZD_REBOOT = "重新启动";
+LZD_TITLE_APP_PREFERENCE = "偏好设置";
+LZD_INSTALLER_BAD_FILES_EXISTS = "文件不存在或者无效。无法起动程序。请重新安装/删除该应用程序。";
+LZD_ERR_STR_EXCLUSIVE_MPP = "无法启动此程序，因为其他的 EPSON Projector软件（EasyMP Multi PC Projection）已处于运行状态。";

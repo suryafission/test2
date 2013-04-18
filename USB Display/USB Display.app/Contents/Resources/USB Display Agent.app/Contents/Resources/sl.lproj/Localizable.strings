@@ -1,0 +1,26 @@
+// Slovenian / スロベニア / sl / Slovenščina
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "O USB Display";
+LZD_MENUITEM_APP_PREFERENCE = "Nastavitve...";
+LZD_MENUITEM_APP_SERVICE = "Storitve";
+LZD_MENUITEM_APP_HIDE_UD = "Skrij USB Display";
+LZD_MENUITEM_APP_HIDEOTHERS = "Skrij ostale";
+LZD_MENUITEM_APP_SHOWALL = "Prikaži vse";
+LZD_MENUITEM_APP_QUIT_UD = "Zapri USB Display";
+LZD_DOCKMENUITEM_DISCONNECT = "Ločiti";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Ta program se že izvaja.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "Program USB Display ne podpira ločljivosti, ki presegajo 1680 x 1200 točk.\nZmanjšajte ločljivost zaslona in poskusite znova.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Te aplikacije se ne da zagnati, ker se že izvaja druga programska oprema EPSON Projector (EasyMP Network Projection).";
+LZD_ERR_STR_DISCONNECT_CABLE = "Pred izključitvijo kabla USB za USB Display izberite meni Izključi v Dock ali ikono USB Display v menijski vrstici.";
+LZD_BTN_OK = "V redu";
+LZD_BTN_CANCEL = "Prekliči";
+LZD_BTN_YES = "Da";
+LZD_BTN_NO = "Ne";
+LZD_CONNECT_REBOOT_INFO = "Da omogočite audio izhod, morate ponovno zagnati računalnik.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Izhodni zvok iz projektorja";
+LZD_AUDIO_ERROR_MSG = "Projektorju ne morem poslati zvoka.";
+LZD_REBOOT = "Ponovni zagon";
+LZD_TITLE_APP_PREFERENCE = "Nastavitve";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Datoteke manjkajo ali niso veljavne. Zagon aplikacije ni uspel. Aplikacijo ponovno namestite/odstranite.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Te aplikacije se ne da zagnati, ker se že izvaja druga programska oprema EPSON Projector (EasyMP Multi PC Projection).";

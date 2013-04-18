@@ -1,0 +1,26 @@
+// Finnish / フィンランド / fi / Suomi
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "Lisätietoja USB Display -ohjelmasta.";
+LZD_MENUITEM_APP_PREFERENCE = "Valinnat...";
+LZD_MENUITEM_APP_SERVICE = "Palvelut";
+LZD_MENUITEM_APP_HIDE_UD = "Piilota USB Display";
+LZD_MENUITEM_APP_HIDEOTHERS = "Piilota muut";
+LZD_MENUITEM_APP_SHOWALL = "Näytä kaikki";
+LZD_MENUITEM_APP_QUIT_UD = "Poistu USB Display -ohjelmasta.";
+LZD_DOCKMENUITEM_DISCONNECT = "Hajanainen";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Tämä sovellus on jo toiminnassa.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display -näyttö ei tue tarkkuutta 1680 x 1200 pikseliä suurempia tarkkuuksia.\nPienennä näytön tarkkuutta ja yritä uudelleen.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Tätä sovellusta ei voida käynnistää, sillä toinen EPSON Projector -ohjelma (EasyMP Network Projection) on jo toiminnassa.";
+LZD_ERR_STR_DISCONNECT_CABLE = "Kun irrotat USB Displayn USB-kaapelia, valitse Irrota-valikko kohdasta Dock tai USB Display -kuvake valikkoriviltä ja irrota kaapeli.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "Peruuta";
+LZD_BTN_YES = "Kyllä";
+LZD_BTN_NO = "Ei";
+LZD_CONNECT_REBOOT_INFO = "Tietokone on käynnistettävä uudelleen, jotta siitä saadaan ääni.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Projektorista lähtevä ääni";
+LZD_AUDIO_ERROR_MSG = "Projektorista ei kuulu ääntä.";
+LZD_REBOOT = "Käynnistä uudestaan";
+LZD_TITLE_APP_PREFERENCE = "Valinnat";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Tiedostoja puuttuu tai ne ovat epäkelpoja. Sovelluksen käynnistys epäonnistui. Asenna sovellus uudelleen tai poista asennus.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Tätä sovellusta ei voida käynnistää, sillä toinen EPSON Projector -ohjelma (EasyMP Multi PC Projection) on jo toiminnassa.";

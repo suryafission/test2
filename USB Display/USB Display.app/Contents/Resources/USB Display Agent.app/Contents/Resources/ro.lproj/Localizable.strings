@@ -1,0 +1,26 @@
+// Romanian / ルーマニア語 / ro / Română
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "Despre USB Display";
+LZD_MENUITEM_APP_PREFERENCE = "Preferinţe...";
+LZD_MENUITEM_APP_SERVICE = "Servicii";
+LZD_MENUITEM_APP_HIDE_UD = "Ascundere USB Display";
+LZD_MENUITEM_APP_HIDEOTHERS = "Ascundere Altele";
+LZD_MENUITEM_APP_SHOWALL = "Afişare toate";
+LZD_MENUITEM_APP_QUIT_UD = "Închidere USB Display";
+LZD_DOCKMENUITEM_DISCONNECT = "Deconectare";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Aplicaţia rulează deja.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display nu suportă rezoluţii de ecran care depăşesc (1680 x 1200 pixeli.\nReduceţi rezoluţia ecranului şi reîncercaţi.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Nu pot porni această aplicaţie deoarece un alt program EPSON Projector (EasyMP Network Projection) este deja deschis.";
+LZD_ERR_STR_DISCONNECT_CABLE = "La deconectarea cablului USB pentru USB Display, selectaţi meniul Deconectare din Dock sau pictograma USB Display din bara de meniu şi apoi deconectaţi.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "Revocare";
+LZD_BTN_YES = "Da";
+LZD_BTN_NO = "Nu";
+LZD_CONNECT_REBOOT_INFO = "Pentru a activa Ieşirea audio, trebuie să restartaţi calculatorul.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Redare semnal audio de la proiector.";
+LZD_AUDIO_ERROR_MSG = "Semnalul audio nu poate fi redat de proiector.";
+LZD_REBOOT = "Repornire";
+LZD_TITLE_APP_PREFERENCE = "Preferinţe";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Fişiere lipsă sau invalide. Aplicaţia nu a putut fi pornită. Reinstalaţi/dezinstalaţi aplicaţia.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Nu pot porni această aplicaţie deoarece un alt program EPSON Projector (EasyMP Multi PC Projection) este deja deschis.";

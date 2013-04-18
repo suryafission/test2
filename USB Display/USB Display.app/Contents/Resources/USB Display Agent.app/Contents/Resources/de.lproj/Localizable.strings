@@ -1,0 +1,26 @@
+// German / ドイツ / de / Deutsch
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "Über USB Display";
+LZD_MENUITEM_APP_PREFERENCE = "Einstellungen...";
+LZD_MENUITEM_APP_SERVICE = "Dienste";
+LZD_MENUITEM_APP_HIDE_UD = "USB Display ausblenden";
+LZD_MENUITEM_APP_HIDEOTHERS = "Andere ausblenden";
+LZD_MENUITEM_APP_SHOWALL = "Alle anzeigen";
+LZD_MENUITEM_APP_QUIT_UD = "USB Display verlassen";
+LZD_DOCKMENUITEM_DISCONNECT = "Trennen";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Diese Anwendung läuft bereits.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display unterstützt die Auflösungen, die 1680 x 1200 Pixel überschreiten, nicht.\nVerringern Sie die Bildschirmauflösung und versuchen Sie es erneut.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Diese Anwendung kann nicht gestartet werden, weil ein anderes EPSON Projector-Programm (EasyMP Network Projection) bereits läuft.";
+LZD_ERR_STR_DISCONNECT_CABLE = "Wenn das USB-Kabel für USB Display getrennt wird, das Menü „Trennen\" im Dock oder das USB Display-Symbol auf der Menüleiste wählen und dann trennen.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "Abbrechen";
+LZD_BTN_YES = "Ja";
+LZD_BTN_NO = "Nein";
+LZD_CONNECT_REBOOT_INFO = "Um den Audioausgang zu aktivieren, muss der Computer neu gestartet werden.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Ton vom Projektor ausgegeben.";
+LZD_AUDIO_ERROR_MSG = "Ton kann nicht auf den Projektor ausgegeben werden.";
+LZD_REBOOT = "Neustart";
+LZD_TITLE_APP_PREFERENCE = "Einstellungen";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Dateien fehlen oder sind ungültig. Starten der Anwendung fehlgeschlagen. Installieren Sie die Anwendung erneut.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Diese Anwendung kann nicht gestartet werden, weil ein anderes EPSON Projector-Programm (EasyMP Multi PC Projection) bereits läuft.";

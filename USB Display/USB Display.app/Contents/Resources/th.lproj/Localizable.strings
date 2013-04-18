@@ -1,0 +1,26 @@
+// Thailand / タイ / th / ราชาไทย
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "เกี่ยวกับ USB Display";
+LZD_MENUITEM_APP_PREFERENCE = "รูปแบบ...";
+LZD_MENUITEM_APP_SERVICE = "บริการ";
+LZD_MENUITEM_APP_HIDE_UD = "ซ่อน USB Display";
+LZD_MENUITEM_APP_HIDEOTHERS = "ซ่อนรายการอื่นๆ";
+LZD_MENUITEM_APP_SHOWALL = "แสดงทั้งหมด";
+LZD_MENUITEM_APP_QUIT_UD = "ปิด USB Display";
+LZD_DOCKMENUITEM_DISCONNECT = "ตัดการเชื่อมต่อ";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "แอปพลิเคชันนี้เปิดใช้งานแล้ว";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display ไม่รองรับความละเอียดหน้าจอที่สูงกว่า 1680 x 1200 พิกเซล\nให้ลดความละเอียดของหน้าจอ แล้วลองอีกครั้ง";
+LZD_ERR_STR_EXCLUSIVE_NSC = "ไม่สามารถเริ่มการทำงานโปรแกรมได้เพราะซอฟต์แวร์ EPSON Projector ตัวอื่น (EasyMP Network Projection) กำลังทำงานอยู่";
+LZD_ERR_STR_DISCONNECT_CABLE = "ขณะถอดสายเคเบิล USB สำหรับ USB Display ให้เลือกเมนู ตัดการเชื่อมต่อ จากไอคอน Dock หรือ ไอคอน USB Display บนแถบเมนู แล้วจึงถอดสายออก";
+LZD_BTN_OK = "ตกลง";
+LZD_BTN_CANCEL = "ยกเลิก";
+LZD_BTN_YES = "ใช่";
+LZD_BTN_NO = "ไม่ใช่";
+LZD_CONNECT_REBOOT_INFO = "คุณต้องทำการรีสตาร์ทคอมพิวเตอร์เพื่อให้การส่งสัญญาณเสียงออกสามารถใช้งานได้ ";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "สัญญาณเสียงขาออกจากโปรเจคเตอร์";
+LZD_AUDIO_ERROR_MSG = "ไม่สามารถส่งสัญญาณเสียงออกไปยังโปรเจคเตอร์ได้";
+LZD_REBOOT = "Restart";
+LZD_TITLE_APP_PREFERENCE = "รูปแบบ";
+LZD_INSTALLER_BAD_FILES_EXISTS = "ไฟล์หายไปหรือใช้ไม่ได้ การเปิดแอปพลิเคชันล้มเหลว ให้ติดตั้งใหม่/ถอดถอนแอปพลิเคชันนี้";
+LZD_ERR_STR_EXCLUSIVE_MPP = "ไม่สามารถเริ่มการทำงานโปรแกรมได้เพราะซอฟต์แวร์ EPSON Projector ตัวอื่น (EasyMP Multi PC Projection) กำลังทำงานอยู่";

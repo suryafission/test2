@@ -1,0 +1,26 @@
+// Hindi / ヒンディー / hi / हिन्दी
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "USB Display के बारे में";
+LZD_MENUITEM_APP_PREFERENCE = "प्राथमिकताएं...";
+LZD_MENUITEM_APP_SERVICE = "सेवाएँ";
+LZD_MENUITEM_APP_HIDE_UD = "USB Display छिपाएँ";
+LZD_MENUITEM_APP_HIDEOTHERS = "अन्य को गुप्त रखिए";
+LZD_MENUITEM_APP_SHOWALL = "सभी दिखाएँ";
+LZD_MENUITEM_APP_QUIT_UD = "USB Display से बाहर निकलें";
+LZD_DOCKMENUITEM_DISCONNECT = "डिस्कनेक्ट करें";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "यह एप्लिकेशन पहले ही चल रही है.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display UXGA 1600 x 1200 पिक्सल से अधिक स्क्रीन रिज़ोलूशन का समर्थन नहीं करता.\nस्क्रीन रिज़ोलूशन कम करें और पुनः प्रयास करें.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "यह एप्लिकेशन प्रारंभ नहीं की जा सकती, क्योंकि अन्य EPSON Projector सॉफ़्टवेयर (EasyMP Network Projection) पहले से ही चल रहा है.";
+LZD_ERR_STR_DISCONNECT_CABLE = "USB Display के लिए USB केबल डिस्कनेक्ट करते समय, डॉक से डिस्कनेक्ट मेनू या मेनू बार पर USB Display आइकन चुनें, और फिर डिस्कनेक्ट करें.";
+LZD_BTN_OK = "ठीक";
+LZD_BTN_CANCEL = "रद्द करें";
+LZD_BTN_YES = "हां";
+LZD_BTN_NO = "नही";
+LZD_CONNECT_REBOOT_INFO = "ऑडियो आउटपुट सक्षम करने के लिए आपको अपना कंप्यूटर पुनः आरंभ करना होगा.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "प्रोजेक्टर से आउटपुट ऑडियो";
+LZD_AUDIO_ERROR_MSG = "प्रोजेक्टर को ऑडियो आउटपुट नहीं हो सकती.";
+LZD_REBOOT = "पुनरारंभ";
+LZD_TITLE_APP_PREFERENCE = "प्राथमिकताएं";
+LZD_INSTALLER_BAD_FILES_EXISTS = "फ़ाइलें गायब हैं या अमान्य हैं. एप्लिकेशन प्रारंभ करने में विफल. पुनर्स्थापित करें/एप्लिकेशन निकाल दें.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "यह एप्लिकेशन प्रारंभ नहीं की जा सकती, क्योंकि अन्य EPSON Projector सॉफ़्टवेयर (EasyMP Multi PC Projection) पहले से ही चल रहा है.";

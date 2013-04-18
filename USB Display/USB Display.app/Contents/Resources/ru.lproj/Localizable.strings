@@ -1,0 +1,26 @@
+// Russian / Pyccknn / ru / Русский
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "О USB Display";
+LZD_MENUITEM_APP_PREFERENCE = "Глобальные параметры...";
+LZD_MENUITEM_APP_SERVICE = "Службы";
+LZD_MENUITEM_APP_HIDE_UD = "Скрыть USB Display";
+LZD_MENUITEM_APP_HIDEOTHERS = "Скрыть остальные";
+LZD_MENUITEM_APP_SHOWALL = "Показать все";
+LZD_MENUITEM_APP_QUIT_UD = "Выйти из USB Display";
+LZD_DOCKMENUITEM_DISCONNECT = "Отключиться";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Данное приложение уже запущено.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "Приложение USB Display не поддерживает разрешения экрана свыше 1680 x 1200 пикселей.\n Установите меньшее разрешение и повторите попытку.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Невозможно запустить данное приложение, поскольку уже выполняется другая программа EPSON Projector (EasyMP Network Projection).";
+LZD_ERR_STR_DISCONNECT_CABLE = "При отключении кабеля USB для USB Display выберите меню \"Отключиться\" в \"Dock\" или значок USB Display в строке меню, затем выполните отключение.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "Отмена";
+LZD_BTN_YES = "Да";
+LZD_BTN_NO = "Нет";
+LZD_CONNECT_REBOOT_INFO = "Для включения звукового выхода необходимо перезапустить компьютер.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Вывод звука с проектора.";
+LZD_AUDIO_ERROR_MSG = "Не удается подать звук на проектор.";
+LZD_REBOOT = "Перезапуск";
+LZD_TITLE_APP_PREFERENCE = "Глобальные параметры";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Файлы отсутствуют или неверны. Не удалось запустить приложение. Переустановите или удалите приложение.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Невозможно запустить данное приложение, поскольку уже выполняется другая программа EPSON Projector (EasyMP Multi PC Projection).";

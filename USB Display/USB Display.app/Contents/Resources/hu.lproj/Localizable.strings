@@ -1,0 +1,26 @@
+// Hungarian / ハンガリー語 / hu / Magyar
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "Az USB Display programról";
+LZD_MENUITEM_APP_PREFERENCE = "Tulajdonságok...";
+LZD_MENUITEM_APP_SERVICE = "Funkciók";
+LZD_MENUITEM_APP_HIDE_UD = "Az USB Display program elrejtése";
+LZD_MENUITEM_APP_HIDEOTHERS = "Egyéb programok elrejtése";
+LZD_MENUITEM_APP_SHOWALL = "Összes megjelenítése";
+LZD_MENUITEM_APP_QUIT_UD = "Kilépés az USB Display programból";
+LZD_DOCKMENUITEM_DISCONNECT = "Szétkapcsol";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Ez az alkalmazás már fut.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "Az USB Display nem támogatja az 1680 x 1200 képpont felbontásnál részletesebb megjelenítést.\nCsökkentse a képernyő felbontását és próbálja újra.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Az alkalmazás nem indítható el, mert egy másik EPSON Projector szoftver (EasyMP Network Projection) már fut.";
+LZD_ERR_STR_DISCONNECT_CABLE = "Az USB Diplay USB kábelének szétkapcsolásához válassza a Szétkapcsol menüt a Dock vagy az USB Display ikonból a menüsorban, majd kapcsolja szét.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "Mégse";
+LZD_BTN_YES = "Igen";
+LZD_BTN_NO = "Nem";
+LZD_CONNECT_REBOOT_INFO = "Az audio kimenet engedélyezéséhez újra kell indítani a számítógépet.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Audio kimenet a kivetítőből";
+LZD_AUDIO_ERROR_MSG = "Az audio jel nem jut el a kivetítőbe.";
+LZD_REBOOT = "Újraindítás";
+LZD_TITLE_APP_PREFERENCE = "Tulajdonságok";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Hiányzó vagy hibás fájlok. Az alkalmazás elindítása sikertelen. Telepítse újra/távolítsa el az alkalmazást.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Az alkalmazás nem indítható el, mert egy másik EPSON Projector szoftver (EasyMP Multi PC Projection) már fut.";

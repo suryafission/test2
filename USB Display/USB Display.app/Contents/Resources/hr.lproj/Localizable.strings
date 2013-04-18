@@ -1,0 +1,26 @@
+// Croatia / クロアチア / hr / Hrvatski
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "O USB Display";
+LZD_MENUITEM_APP_PREFERENCE = "Preferencije...";
+LZD_MENUITEM_APP_SERVICE = "Usluge";
+LZD_MENUITEM_APP_HIDE_UD = "Sakriti USB Display";
+LZD_MENUITEM_APP_HIDEOTHERS = "Sakriti ostalo";
+LZD_MENUITEM_APP_SHOWALL = "Prikazati sve";
+LZD_MENUITEM_APP_QUIT_UD = "Prekinuti USB Display";
+LZD_DOCKMENUITEM_DISCONNECT = "Isključiti";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "Ova aplikacija je već pokrenuta.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display ne podržava razlučivosti veće od 1680 x 1200 piksela.\nSmanjite razlučivost zaslona i pokušajte ponovno.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "Aplikaciju nije moguće pokrenuti jer je drugi EPSON Projector softver (EasyMP Network Projection) već pokrenut.";
+LZD_ERR_STR_DISCONNECT_CABLE = "Prilikom isključivanja USB kabela za USB Display, odaberite izbornik Isključivanje iz Dock-a ili ikonu USB Display sa trake izbornika, a zatim isključite.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "Odustani";
+LZD_BTN_YES = "Da";
+LZD_BTN_NO = "Ne";
+LZD_CONNECT_REBOOT_INFO = "Morat ćete ponovno pokrenuti Vaše računalo kako biste omogućili izlaz zvuka.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "Preusmjeri zvuk iz projektora";
+LZD_AUDIO_ERROR_MSG = "Zvuk se ne može usmjeriti na projektor.";
+LZD_REBOOT = "Ponovno pokreni";
+LZD_TITLE_APP_PREFERENCE = "Preferencije";
+LZD_INSTALLER_BAD_FILES_EXISTS = "Neke datoteke nedostaju ili su neispravne. Nije moguće pokrenuti aplikaciju. Aplikaciju instalirajte ponovno ili je uklonite.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "Aplikaciju nije moguće pokrenuti jer je drugi EPSON Projector softver (EasyMP Multi PC Projection) već pokrenut.";

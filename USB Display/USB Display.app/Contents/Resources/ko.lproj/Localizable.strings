@@ -1,0 +1,26 @@
+// Korean / 韓国語 / ko / 한국
+
+LZD_APPLICATION_NAME_UD = "USB Display";
+LZD_MENUITEM_APP_ABOUT_UD = "USB Display 정보";
+LZD_MENUITEM_APP_PREFERENCE = "기본 설정...";
+LZD_MENUITEM_APP_SERVICE = "서비스";
+LZD_MENUITEM_APP_HIDE_UD = "USB Display 숨기기";
+LZD_MENUITEM_APP_HIDEOTHERS = "기타 숨기기";
+LZD_MENUITEM_APP_SHOWALL = "모두 보기";
+LZD_MENUITEM_APP_QUIT_UD = "USB Display 취소";
+LZD_DOCKMENUITEM_DISCONNECT = "접속 끊기";
+LZD_ERR_STR_APP_ALREADY_RUNNING = "이 응용프로그램은 이미 실행중입니다.";
+LZD_ERR_STR_OVER_DISPLAY_RESOLUTION_PC = "USB Display은 1680 x 1200 픽셀 를 초과하는 화면 해상도는 지원하지 않습니다.\n화면 해상도를 줄여서 재시도하십시오.";
+LZD_ERR_STR_EXCLUSIVE_NSC = "다른 EPSON Projector 소프트웨어(EasyMP Network Projection)가 이미 실행 중이기 때문에 이 응용프로그램을 시작할 수 없습니다.";
+LZD_ERR_STR_DISCONNECT_CABLE = "USB Display의 USB 케이블 접속을 끊을 때 메뉴 모음의 Dock 또는 USB Display 아이콘에서 접속 끊기 메뉴를 선택한 후 접속을 끊으십시오.";
+LZD_BTN_OK = "OK";
+LZD_BTN_CANCEL = "취소";
+LZD_BTN_YES = "예";
+LZD_BTN_NO = "아니오";
+LZD_CONNECT_REBOOT_INFO = "오디오 출력을 실행하려면 컴퓨터를 다시 시작해야 합니다.";
+LZD_CAP_ENV_SETTING_AUDIO_OUTPUT = "프로젝터에서 오디오 출력";
+LZD_AUDIO_ERROR_MSG = "오디오를 프로젝터로 출력할 수 없습니다.";
+LZD_REBOOT = "재기동";
+LZD_TITLE_APP_PREFERENCE = "기본 설정";
+LZD_INSTALLER_BAD_FILES_EXISTS = "파일이 없거나 유효하지 않습니다. 응용프로그램을 시작하는데 실패했습니다. 응용프로그램을 다시 설치하십시오.";
+LZD_ERR_STR_EXCLUSIVE_MPP = "다른 EPSON Projector 소프트웨어(EasyMP Multi PC Projection)가 이미 실행 중이기 때문에 이 응용프로그램을 시작할 수 없습니다.";
